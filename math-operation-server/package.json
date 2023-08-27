@@ -1,0 +1,14 @@
+{
+  "name": "math-operation-server",
+  "version": "1.0.0",
+  "description": "Maths Operations",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
